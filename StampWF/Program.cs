@@ -8,6 +8,7 @@ namespace StampWF
 {
     static class Program
     {
+	// test
         /// <summary>
         /// アプリケーションのメイン エントリ ポイントです。
         /// </summary>
