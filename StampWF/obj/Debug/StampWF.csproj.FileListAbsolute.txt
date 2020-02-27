@@ -1,0 +1,27 @@
+C:\Users\Administrator\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\StampWF.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\StampWF.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\StampWF\StampWF\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\StampWF\StampWF\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\StampWF\StampWF\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\StampWF\StampWF\obj\Debug\StampWF.CreateStamp.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\StampWF\StampWF\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\StampWF\StampWF\obj\Debug\StampWF.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\StampWF\StampWF\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\StampWF\StampWF\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\StampWF\StampWF\obj\Debug\StampWF.csprojResolveAssemblyReference.cache
+C:\StampWF\StampWF\bin\Debug\StampWF.exe.config
+C:\StampWF\StampWF\bin\Debug\StampWF.exe
+C:\StampWF\StampWF\bin\Debug\StampWF.pdb
+C:\StampWF\StampWF\obj\Debug\StampWF.csprojResolveAssemblyReference.cache
+C:\StampWF\StampWF\obj\Debug\StampWF.CreateStamp.resources
+C:\StampWF\StampWF\obj\Debug\StampWF.Properties.Resources.resources
+C:\StampWF\StampWF\obj\Debug\StampWF.csproj.GenerateResource.Cache
+C:\StampWF\StampWF\obj\Debug\StampWF.exe
+C:\StampWF\StampWF\obj\Debug\StampWF.pdb
